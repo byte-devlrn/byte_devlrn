@@ -16,11 +16,6 @@
 
 ---
 
-## Metrics
-<img src="github-metrics.png" alt="GitHub Metrics" />
-
----
-
 ## Stats
 <div align="center">
 
